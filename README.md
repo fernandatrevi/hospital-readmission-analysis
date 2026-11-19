@@ -133,3 +133,7 @@ These results are exploratory and do not establish clinical usefulness.
 7. Assess probability calibration.
 8. Use additional independent data for a final evaluation and external validation.
 9. Verify installation and execution in a fresh environment.
+
+## Additional project documentation
+
+- [Reproducibility and validation](docs/reproducibility-and-validation.md) — verification steps, limitations, and responsible-use considerations.
